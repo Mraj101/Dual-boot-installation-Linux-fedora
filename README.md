@@ -4,6 +4,6 @@
 
 ## PreRequisites
 ---
-* ___An empty usb drive___ [make sure it has no data, cause the installation will wipe everything out]
-* ___Unallocated Disk space in your windows___
+1. ___An empty usb drive___ [make sure it has no data, cause the installation will wipe everything out]
+2.  ___Unallocated Disk space in your windows___
 []
